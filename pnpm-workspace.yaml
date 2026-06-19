@@ -1,0 +1,5 @@
+# pnpm reads build-script allowlists here (moved out of package.json in pnpm 10+).
+# esbuild ships a platform-specific native binary via a postinstall step; vitest
+# needs it, so the build is explicitly permitted.
+allowBuilds:
+  esbuild: true

@@ -1,0 +1,16 @@
+Some preamble before the title that should not be here.
+
+# Acme Docs
+
+## Guides
+- [Quickstart](https://acme.example.com/guides/quickstart): get going
+- this line is not a valid link
+- [Quickstart](https://acme.example.com/guides/quickstart)
+
+## Reference
+- [API](/reference/api)
+
+### Too Deep
+- [Nested](https://acme.example.com/nested)
+
+## Empty Section

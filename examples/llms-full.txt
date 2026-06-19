@@ -1,0 +1,30 @@
+# Acme Docs
+
+> Everything you need to integrate with Acme.
+
+## Acme Docs
+
+Source: https://acme.example.com/
+
+Welcome to the Acme developer documentation. Start with the quickstart, then
+explore the API reference.
+
+## Quickstart
+
+Source: https://acme.example.com/guides/quickstart
+
+Install the SDK, create an API key, and send your first request. This guide
+walks through authentication and a minimal example end to end.
+
+## API Reference
+
+Source: https://acme.example.com/reference/api
+
+Detailed documentation for all endpoints, parameters, and response shapes,
+including pagination, rate limits, and error codes.
+
+## Changelog
+
+Source: https://acme.example.com/changelog
+
+A running log of additions, deprecations, and breaking changes to the API.

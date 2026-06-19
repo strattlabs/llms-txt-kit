@@ -1,0 +1,15 @@
+# Acme Docs
+
+> Everything you need to integrate with Acme.
+
+## Docs
+- [Acme Docs](https://acme.example.com/): Everything you need to integrate with the Acme API.
+
+## Guides
+- [Quickstart](https://acme.example.com/guides/quickstart): Make your first Acme API call in five minutes.
+
+## Reference
+- [API Reference](https://acme.example.com/reference/api): Complete reference for every Acme API endpoint.
+
+## Optional
+- [Changelog](https://acme.example.com/changelog): Notable changes to the Acme API.
