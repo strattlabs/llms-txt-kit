@@ -1,5 +1,7 @@
 # llms-txt-kit
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) · [strattlabs.com](https://strattlabs.com)
+
 Generate and validate spec-compliant [`llms.txt`](https://llmstxt.org) and
 `llms-full.txt` files.
 
@@ -158,3 +160,16 @@ pnpm build         # emit dist/
 ## License
 
 [MIT](LICENSE) © 2026 Stratt Labs
+
+---
+
+## Part of the Stratt Labs toolkit for the agentic web
+
+Small, standards-friendly tools from [Stratt Labs](https://strattlabs.com):
+
+- [agent-readiness-manifest](https://github.com/strattlabs/agent-readiness-manifest)
+  — an open declaration spec for agent discovery.
+- [schema-for-agents](https://github.com/strattlabs/schema-for-agents) — JSON-LD
+  recipes for agent-legible commerce and content.
+- [webmcp-starter](https://github.com/strattlabs/webmcp-starter) — a minimal
+  WebMCP reference page.
