@@ -1,6 +1,6 @@
 {
   "name": "@strattlabs/llms-txt-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate and validate spec-compliant llms.txt and llms-full.txt files.",
   "keywords": [
     "llms.txt",
@@ -57,5 +57,14 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strattlabs/llms-txt-kit.git"
+  },
+  "homepage": "https://github.com/strattlabs/llms-txt-kit#readme",
+  "bugs": {
+    "url": "https://github.com/strattlabs/llms-txt-kit/issues"
+  },
+  "author": "Stratt Labs <oss@strattlabs.com>"
 }

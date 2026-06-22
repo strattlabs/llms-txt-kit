@@ -24,8 +24,8 @@ have.
 ## Install
 
 ```bash
-pnpm add -D llms-txt-kit
-# or: npm i -D llms-txt-kit / yarn add -D llms-txt-kit
+pnpm add -D @strattlabs/llms-txt-kit
+# or: npm i -D @strattlabs/llms-txt-kit / yarn add -D @strattlabs/llms-txt-kit
 ```
 
 Requires Node.js ≥ 18.18.
@@ -89,7 +89,7 @@ suitable for CI.
 ## Library
 
 ```ts
-import { generate, validate, parse, format } from 'llms-txt-kit';
+import { generate, validate, parse, format } from '@strattlabs/llms-txt-kit';
 
 const { llmsTxt, llmsFullTxt } = await generate({
   contentDir: './docs',
